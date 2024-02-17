@@ -7,7 +7,7 @@
     "discordID": "192710597106728960",
     "github": "JasperLorelai"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "github",
     "id": "JasperLorelai/amoled-dark-mode"

@@ -1,6 +1,6 @@
 {
   "name": "amoled-dark-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Replugged plugin that enables Discord's AMOLED Dark Mode.",
   "engines": {
     "node": ">=20.0.0",
