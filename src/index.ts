@@ -1,4 +1,4 @@
-const CLASS_NAME = "theme-amoled";
+const CLASS_NAME = "theme-midnight";
 
 export function start(): void {
   document.body.classList.add(CLASS_NAME);
