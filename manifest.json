@@ -14,5 +14,6 @@
   },
   "license": "ISC",
   "type": "replugged-plugin",
-  "renderer": "src/index.ts"
+  "renderer": "src/index.ts",
+  "source": "https://github.com/JasperLorelai/amoled-dark-mode"
 }
